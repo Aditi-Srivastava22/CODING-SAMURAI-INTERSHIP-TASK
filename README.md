@@ -1,2 +1,2 @@
-# CODING-SAMURAI-INTERSHIP-TASK
+# CODING-SAMURAI-INTERNSHIP-TASK
 My internship projects with Coding Samurai
